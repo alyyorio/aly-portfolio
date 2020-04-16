@@ -3,10 +3,10 @@ title: stubhub
 subtitle: Community Social Assets
 media_type: slideshow
 slides:
-  - image_one.jpg
-  - image_two.jpg
-  - image_three.jpg
-  - image_four.jpg
+  - image_one.png
+  - image_two.png
+  - image_three.png
+  - image_four.png
 ---
 
-This is a stubhub post
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

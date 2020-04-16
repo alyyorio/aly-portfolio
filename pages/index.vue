@@ -2,7 +2,13 @@
   <div class="container">
     <div v-for="company in companyList" :key="company.title" class="company">
       <div class="media">
-        <h1>media</h1>
+        <no-ssr>
+          <carousel :per-page="1" class="carousel">
+            <slide v-for="url in company.slides" :key="url">
+              <img :src="url" class="image" />
+            </slide>
+          </carousel>
+        </no-ssr>
       </div>
       <div class="content">
         <div class="title">
@@ -58,14 +64,26 @@ export default {
   text-align: center;
 }
 
+.image {
+  max-height: 600px;
+  max-width: 1200px;
+}
+
 .content {
+  text-align: left;
+  word-wrap: none;
   display: flex;
   flex-direction: row;
 }
 
 .title {
+  width: 33%;
   display: flex;
   flex-direction: column;
+}
+
+.description {
+  width: 66%;
 }
 
 .company {
@@ -91,5 +109,9 @@ export default {
 
 .links {
   padding-top: 15px;
+}
+
+.description {
+  column-count: 2;
 }
 </style>
