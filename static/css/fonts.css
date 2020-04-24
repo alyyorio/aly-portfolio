@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'AntarcticanMono-Bold';
+  src: url('/fonts/AntarcticanMono-Bold/font.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'AntarcticanMono-Medium';
+  src: url('/fonts/AntarcticanMono-Medium/font.woff2') format('woff2');
+}
