@@ -1,9 +1,11 @@
 ---
-title: MOTION REEL
-subtitle: ANIMATION STUFF
-background_color: DDDDDD
-media_type: video
-video: https://player.vimeo.com/video/195703764
+name: ALY YORIO
+subtitle: THE STATE OF SALESFORCE
+background_color: BFBFBF
+media_type: slideshow
+slides:
+  - one.png
+  - image_three.png
 ---
 
 <p>

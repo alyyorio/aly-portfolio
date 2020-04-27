@@ -2,10 +2,8 @@
 title: BLUEWOLF
 subtitle: THE STATE OF SALESFORCE
 background_color: BFBFBF
-media_type: slideshow
-slides:
-  - one.png
-  - image_three.png
+media_type: video
+video: https://player.vimeo.com/video/232501172
 ---
 
 <p>

@@ -1,55 +1,27 @@
 <template>
   <div class="container">
     <div class="header">
-      <h2>
-        <span class="first-name">ALY</span>
-        <span class="last-name">YORIO</span>
-      </h2>
+      <a href="/">
+        <h2>
+          <span class="first-name">ALY</span>
+          <span class="last-name">YORIO</span>
+        </h2>
+      </a>
       <div class="nav">
-        <a class="contact" href="/">
+        <a class="work" :class="{ active: $nuxt.$route.path === '/' }" href="/">
+          <h2>WORK</h2>
+        </a>
+        <a
+          class="contact"
+          :class="{ active: $nuxt.$route.path === '/contact' }"
+          href="/contact"
+        >
           <h2>CONTACT</h2>
         </a>
       </div>
     </div>
     <div class="main">
-      <div
-        v-for="company in companyList"
-        :key="company.title"
-        class="panel"
-        :style="company.style"
-      >
-        <div class="media">
-          <div class="slideshow" v-if="company.mediaType === 'slideshow'">
-            <no-ssr>
-              <carousel :per-page="1" class="carousel">
-                <slide v-for="url in company.slides" :key="url">
-                  <img :src="url" class="image" />
-                </slide>
-              </carousel>
-            </no-ssr>
-          </div>
-          <div class="video" v-else-if="company.mediaType === 'video'">
-            <iframe
-              :src="company.video"
-              width="1200"
-              height="675"
-              frameborder="0"
-              allow="autoplay; fullscreen"
-              allowfullscreen
-            >
-            </iframe>
-          </div>
-        </div>
-        <div class="content">
-          <div class="title">
-            <h2>{{ company.title }}</h2>
-            <h3>{{ company.subtitle }}</h3>
-          </div>
-          <div class="description">
-            <span v-html="company.description"></span>
-          </div>
-        </div>
-      </div>
+      Contact
     </div>
   </div>
 </template>
@@ -60,14 +32,7 @@ export default {
 
   async asyncData({ params }) {
     try {
-      const order = [
-        'stubhub',
-        'stubhub_2',
-        'motion_reel',
-        'thumbtack',
-        'bluewolf',
-        'grcd'
-      ]
+      const order = ['contact']
 
       const companyList = []
       for (let i = 0; i < order.length; i++) {
@@ -77,7 +42,6 @@ export default {
           subtitle: company.attributes.subtitle,
           mediaType: company.attributes.media_type,
           slides: company.attributes.slides,
-          video: company.attributes.video,
           description: company.html,
           style: {
             backgroundColor: `#${company.attributes.background_color}`
@@ -104,21 +68,18 @@ body {
   text-decoration: none;
 }
 
+.nav a.active,
+.nav a:visited.active {
+  color: #ea3d25;
+}
+
 .nav a,
 .nav a:visited {
   color: black;
 }
 
-.nav a:hover {
-  color: #ea3d25;
-}
-
 .header .last-name {
   color: #ea3d25;
-}
-
-.media .video {
-  margin-bottom: 16px;
 }
 
 .header {

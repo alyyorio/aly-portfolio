@@ -19,8 +19,6 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'css/fonts.css' },
-      { rel: 'stylesheet', href: 'fonts/AntarcticanMono-Bold/font.woff2' },
-      { rel: 'stylesheet', href: 'fonts/AntarcticanMono-Medium/font.woff2' }
     ]
   },
   /*
