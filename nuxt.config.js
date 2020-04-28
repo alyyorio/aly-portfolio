@@ -19,6 +19,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'css/fonts.css' },
+      { rel: 'stylesheet', href: 'css/site.css' }
     ]
   },
   /*
@@ -59,6 +60,20 @@ export default {
           // mode: [Mode.VUE_COMPONENT, Mode.META]
         }
       })
+
+      config.module.rules.push({
+        test: /\.ya?ml$/,
+        use: 'js-yaml-loader'
+      })
+      if (ctx.isDev && ctx.isClient) {
+        config.module.rules.push({
+          enforce: 'pre',
+          test: /\.(js|vue)$/,
+          loader: 'eslint-loader',
+          exclude: /(node_modules)/,
+          options: { fix: true }
+        })
+      }
     }
   }
 }
