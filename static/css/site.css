@@ -5,7 +5,7 @@ body {
 .svg-right {
   height: 300px;
   width: 100vw;
-  position: absolute;
+  position: fixed;
   top: 200px;
   justify-content: flex-end;
   display: flex;
@@ -19,7 +19,7 @@ body {
 .svg-left {
   height: 300px;
   width: 100vw;
-  position: absolute;
+  position: fixed;
   top: 600px;
   justify-content: flex-start;
   display: flex;
@@ -178,4 +178,38 @@ body {
 
 .description {
   column-count: 2;
+}  
+
+
+@media only screen and (max-width: 1200px) {
+  .header,
+  .content,
+  .media,
+  .image {
+    max-width: 700px;
+    width: 700px
+  }
+
+  .video iframe {
+    height: 393px;
+    max-width: 700px;
+    width: 700px
+  }
+}
+
+
+@media only screen and (max-width: 750px) {
+  .header,
+  .content,
+  .media,
+  .image {
+    max-width: 400px;
+    width: 400px
+  }
+
+  .video iframe {
+    height: 393px;
+    max-width: 400px;
+    width: 400px
+  }
 }
