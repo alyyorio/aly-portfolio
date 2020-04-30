@@ -2,9 +2,13 @@ body {
   font-family: 'AntarcticanMono-Medium';
 }
 
+body h1,
 body h2,
-body h3 {
-  letter-spacing: 2px !important;
+body h3,
+body h4,
+body h5,
+body h6 {
+  font-family: 'AntarcticanMono-Bold';
 }
 
 .svg-1-right {
