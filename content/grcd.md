@@ -17,7 +17,7 @@ This was the branding for my college senior Graphic Communication Design (GRCD) 
 </p>
 
 <p>
-With a team of six designers, we landed on the concept of “Overlay” as the most apt way to describe the experiences accumulated over the past five years in the program and how layers of knowledge and skill created stronger designers.
+With a team of six designers, we landed on the concept of “Overlay” as the most apt way to describe the experiences accumulated over the past five years in the program and how many layers of knowledge and skill create stronger designers.
 </p>
 
 <p>

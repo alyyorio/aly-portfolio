@@ -11,11 +11,11 @@ This was a promotional video for Bluewolf's annual State of Salesforce report. T
 </p>
 
 <p>
-I was brought in to translate this into a catchy and engaging video to tease the report’s release
+I was brought in to translate this into a catchy and engaging video to tease the report’s release.
 </p>
 
 <p>
-Starting with assets that matched the visual look and feel of the report, I edited and animated this video to an upbeat jazz track that brought both snappiness and elegance to the project.
+Basing my visuals off of the report's style guide, I edited and animated this video to an upbeat jazz track that brought high-energy and elegance to the project.
 </p>
 
 <p>

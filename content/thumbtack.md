@@ -14,11 +14,11 @@ slides:
 ---
 
 <p>
-Thumbtack is an online service that matches customers with local professionals. From trainers to plumbers to wedding planners, Thumbtack has a catalog of unique services to showcase.
+Thumbtack is an online service that matches customers with local professionals. From trainers to plumbers to wedding planners, Thumbtack has a large catalog of unique services to showcase.
 </p>
 
 <p>
-I was brought in on one of their brand shoots to art direct typographic lay downs for potential billboard ads utilizing some of their services.
+I was brought in on one of their brand shoots to art direct typographic lay downs for billboard ads utilizing some of their services.
 </p>
 
 <p>
