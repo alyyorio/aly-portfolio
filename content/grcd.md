@@ -9,9 +9,17 @@ slides:
 ---
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This was the branding for my college senior Graphic Communication Design (GRCD) exhibition.
 </p>
 
 <p>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With a team of six designers, we landed on the concept of “Overlay” as the most apt way to describe the experiences accumulated over the past five years in the program and how layers of knowledge and skill created stronger designers.
+</p>
+
+<p>
+My responsibilities consisted of determining the visual direction of the brand as well as the development of the icon system. I also lead the team in charge of the motion bumpers and did the primary photography/videography for each student.
+</p>
+
+<p>
+The above is a mix of our pitch deck and final execution. Check out the original proposal here.
 </p>

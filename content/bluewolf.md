@@ -7,9 +7,17 @@ video: https://player.vimeo.com/video/232501172
 ---
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This was a promotional video for Bluewolf's annual State of Salesforce report. This is a high-priority project they publish every year to show how the best companies get the most value using Salesforce. 
 </p>
 
 <p>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I was brought in to translate this into a catchy and engaging video to tease the report’s release
+</p>
+
+<p>
+Starting with assets that matched the visual look and feel of the report, I edited and animated this video to an upbeat jazz track that brought both snappiness and elegance to the project.
+</p>
+
+<p>
+I also created supplementary content for the video, including motion graphics projection inside a tunnel for an event at Dreamforce 2017.
 </p>

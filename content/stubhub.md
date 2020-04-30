@@ -9,9 +9,17 @@ slides:
 ---
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+StubHub’s latest rebrand is centered around two core ideas. First: create an intimtate, authentic experience for fans globally. Second: have a fresh look that offers flexibility across all channels from performance marketing to event activations.
 </p>
 
 <p>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Given these perameters, the team recallibrated our photography style from studio shot images to real photography for authenticity. 
+</p>
+
+<p>
+We then developed two treatments for our type and graphic elements. A barring system for better informational design in our performance ads as well as a fractal element based off of the logo for something more visual and ownable as a brand.
+</p>
+
+<p>
+I was involved in every stage of the redesign, from early concepting and photography exploration to final execution, animation, and implementation of the system.
 </p>

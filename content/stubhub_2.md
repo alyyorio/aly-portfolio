@@ -9,9 +9,17 @@ slides:
 ---
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The main purpose of StubHub’s social content strategy was to show fans how live event culture can fit into their everyday lives. 
 </p>
 
 <p>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We had a multi-faceted approach in how we created content for our main platforms (Twitter, IG, and Facebook) from fan photos at events to memes to monthly horoscopes.
+</p>
+
+<p>
+As Art Director of StubHub’s community social channels, I worked with our Social Media Managers to ideate and execute on our team’s strategy, along with my copywriter partner.
+</p>
+
+<p>
+Above is a small sample of the work I did over 1.5 years. All assets were animated, illustrated, designed, and photographed by myself.
 </p>
