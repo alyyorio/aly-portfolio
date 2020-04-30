@@ -1,7 +1,7 @@
 ---
 title: THUMBTACK
 subtitle: TYPOGRAPHIC BILLBOARDS
-background_color: BFBFBF
+background_color: DDDDDD
 media_type: slideshow
 slides:
   - 1_Thumbtack_WorkItOut.png

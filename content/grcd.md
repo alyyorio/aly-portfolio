@@ -1,7 +1,7 @@
 ---
 title: GRCD
 subtitle: SENIOR SHOW BRANDING
-background_color: A0A0A0
+background_color: DDDDDD
 media_type: slideshow
 slides:
   - 1_GRCD_Hero.png

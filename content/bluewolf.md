@@ -1,7 +1,7 @@
 ---
 title: BLUEWOLF
 subtitle: THE STATE OF SALESFORCE
-background_color: B2B2B2
+background_color: EAEAEA
 media_type: video
 video: https://player.vimeo.com/video/232501172
 ---

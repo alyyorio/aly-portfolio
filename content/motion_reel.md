@@ -1,7 +1,7 @@
 ---
 title: MOTION REEL
 subtitle: VARIOUS ANIMATIONS
-background_color: CCCCCC
+background_color: EAEAEA
 media_type: video
 video: https://player.vimeo.com/video/195703764
 ---
