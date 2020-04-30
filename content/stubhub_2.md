@@ -1,11 +1,17 @@
 ---
 title: STUBHUB
 subtitle: ORGANIC SOCIAL CONTENT
-background_color: EAEAEA
+background_color: DDDDDD
 media_type: slideshow
 slides:
-  - one.png
-  - image_three.png
+  - 1_Social_Horoscopes.gif
+  - 2_Social_Horoscopes.gif
+  - 3_Social_Horoscopes.png
+  - 4_Social_Thankful.png
+  - 5_Social_Thankful.png
+  - 6_Social_Bandwagoners.gif
+  - 7_Social_Memes.png
+  - 8_Social_Memes.png
 ---
 
 <p>
