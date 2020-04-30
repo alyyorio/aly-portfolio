@@ -1,10 +1,16 @@
 <template>
   <div class="container">
-    <div class="svg-right">
-      <img src="images/orange-blob-right.svg" />
+    <div class="svg-1-right">
+      <img src="images/orange-blob-right-1.svg" />
     </div>
-    <div class="svg-left">
-      <img src="images/orange-blob-left.svg" />
+    <div class="svg-1-left">
+      <img src="images/orange-blob-left-1.svg" />
+    </div>
+    <div class="svg-2-right">
+      <img src="images/orange-blob-right-2.svg" />
+    </div>
+    <div class="svg-2-left">
+      <img src="images/orange-blob-left-2.svg" />
     </div>
     <div class="header">
       <h2>
@@ -27,7 +33,12 @@
         <div class="media">
           <div v-if="company.mediaType === 'slideshow'" class="slideshow">
             <no-ssr>
-              <carousel :per-page="1" class="carousel">
+              <carousel
+                :navigation-enabled="true"
+                :pagination-enabled="false"
+                :per-page="1"
+                class="carousel"
+              >
                 <slide v-for="url in company.slides" :key="url">
                   <img :src="`images/${url}`" class="image" />
                 </slide>
@@ -60,7 +71,6 @@
     <div class="panel footer" :style="footer.style">
       <div class="content">
         <div class="title">
-          <h2 class="name">{{ footer.name }}</h2>
           <h3 class="resume">RESUME</h3>
           <h3 class="email">{{ footer.email }}</h3>
           <h3 class="phone">{{ footer.phone }}</h3>

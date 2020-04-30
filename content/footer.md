@@ -1,5 +1,4 @@
 ---
-name: ALY YORIO
 email: ALYYORIO34@GMAIL.COM
 phone: 513-478-1613
 background_color: ea3d25
