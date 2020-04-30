@@ -1,7 +1,7 @@
 ---
 title: THUMBTACK
 subtitle: BRAND BILLBOARDS
-background_color: CCCCCC
+background_color: BFBFBF
 media_type: slideshow
 slides:
   - 1_Thumbtack_WorkItOut.png

@@ -1,7 +1,7 @@
 ---
 title: GRCD
-subtitle: DAAPWORKS BRANDING
-background_color: B2B2B2
+subtitle: SENIOR EXHIBITION BRANDING
+background_color: A0A0A0
 media_type: slideshow
 slides:
   - 1_GRCD_Hero.png
