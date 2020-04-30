@@ -4,8 +4,13 @@ subtitle: BRAND BILLBOARDS
 background_color: CCCCCC
 media_type: slideshow
 slides:
-  - one.png
-  - image_three.png
+  - 1_Thumbtack_WorkItOut.png
+  - 2_Thumbtack_FixThePipes.png
+  - 3_Thumbtack_Process.png
+  - 4_Thumbtack_MowTheLawn.png
+  - 5_Thumbtack_SayIDo.png
+  - 6_Thumbtack_PartyAnimals.png
+
 ---
 
 <p>
