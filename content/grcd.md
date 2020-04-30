@@ -1,6 +1,6 @@
 ---
 title: GRCD
-subtitle: SENIOR EXHIBITION BRANDING
+subtitle: SENIOR SHOW BRANDING
 background_color: A0A0A0
 media_type: slideshow
 slides:

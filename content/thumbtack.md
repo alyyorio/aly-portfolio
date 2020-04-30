@@ -1,6 +1,6 @@
 ---
 title: THUMBTACK
-subtitle: BRAND BILLBOARDS
+subtitle: TYPOGRAPHIC BILLBOARDS
 background_color: BFBFBF
 media_type: slideshow
 slides:
