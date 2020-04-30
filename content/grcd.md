@@ -4,8 +4,12 @@ subtitle: DAAPWORKS BRANDING
 background_color: B2B2B2
 media_type: slideshow
 slides:
-  - one.png
-  - image_three.png
+  - 1_GRCD_Hero.png
+  - 2_GRCD_Icons.png
+  - 3_GRCD_Layers.png
+  - 4_GRCD_Poster-Bumpers.png
+  - 5_GRCD_Window-Cling.png
+  - 6_GRCD_Swag.png
 ---
 
 <p>
