@@ -25,5 +25,5 @@ My responsibilities consisted of determining the visual direction of the brand a
 </p>
 
 <p>
-The above is a mix of our pitch deck and final execution. Check out the original proposal here.
+The above is a mix of our pitch deck and final execution. Check out the original proposal <a href="https://drive.google.com/file/d/0B8A0BXqLdqxEMWV6SDNzVHpXb2c/view">here</a>.
 </p>
