@@ -8,12 +8,12 @@ slides:
   - 2_Vis-ID_iPhone_X_Mockup_1.gif
   - 3_Vis-ID_iPhone_X_Mockup_2.gif
   - 4_Vis-ID_iPhone_X_Mockup_3.gif
-  - 5_Vis-ID_Book-Spreads.png
-  - 6_Vis-ID_Book-Spreads-Diagonal.png
   - 7_Vis-ID_Type.png
   - 8_Vis-ID_OOH-Subway.png
   - 9_Vis-ID_Swag.png
   - 10_Vis-ID_Lounge.png
+  - 5_Vis-ID_Book-Spreads.png
+  - 6_Vis-ID_Book-Spreads-Diagonal.png
 ---
 
 <p>
