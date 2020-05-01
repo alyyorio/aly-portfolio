@@ -7,11 +7,7 @@ video: https://player.vimeo.com/video/195703764
 ---
 
 <p>
-This reel is a collection of animated projects over the last several years. 
-</p>
-
-<p>
-My primary profession out of college was motion graphics and video editing. I mostly worked in 2D animation but have experience with character rigging, cel animation, c4d, compositing, UI animation, and color grading.
+This reel is a collection of animated projects over the last several years. I mostly worked in 2D animation but have experience with character rigging, cel animation, c4d, compositing, UI animation, and color grading.
 </p>
 
 <p>

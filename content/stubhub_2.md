@@ -27,5 +27,5 @@ As Art Director of StubHub’s community social channels, I worked with our Soci
 </p>
 
 <p>
-Above is a small sample of the work I did over 1.5 years. All assets were animated, illustrated, designed, and photographed by myself.
+Above is a small sample of work I did over 1.5 years. All assets were animated, illustrated, designed, and photographed by myself.
 </p>

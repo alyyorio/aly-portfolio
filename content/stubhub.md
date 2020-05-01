@@ -17,17 +17,17 @@ slides:
 ---
 
 <p>
-StubHub’s latest rebrand is centered around two core ideas. First: create an intimtate, authentic experience for fans globally. Second: have a fresh look that offers flexibility across all channels from performance marketing to event activations.
+StubHub’s latest rebrand was centered around two core ideas. First: create an intimtate, authentic experience for fans globally. Second: have a fresh look that offers flexibility across all channels from performance marketing to event activations.
 </p>
 
 <p>
-Given these perameters, the team recallibrated our photography style from studio shot images to real photography for authenticity. 
+Given these perameters, our small but mighty team went to work. We first recallibrated our photography style from studio shot images to real photography for authenticity. Then we took our brand purple, modernized it, and expanded the pallete for legibility and contrast. 
 </p>
 
 <p>
-We then developed two treatments for our type and graphic elements. A barring system for better informational design in our performance ads as well as a fractal element based off of the logo for something more visual and ownable as a brand.
+We then developed two treatments for our type and graphic elements. A barring system for better informational design in our performance ads as well as a fractal element based off of the logo for something more visual and ownable as a brand. All these choices lead to a 2% increase in ROAS. 
 </p>
 
 <p>
-I was involved in every stage of the redesign, from early concepting and photography exploration to final execution, animation, and implementation of the system.
+I was a key player at every stage of the redesign, from early concepting and iteration to final execution, animation, and implementation of the system. You can view the final brand book here.
 </p>
