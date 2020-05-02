@@ -5,11 +5,11 @@ background_color: ea3d25
 ---
 
 <p>
-Graduate of University of Cincinnati's College of Design, Architecture, Art,and Planning with a B.S. in Graphic Communication Design. 
+Art Director experienced in and passionate about branding, animation, and illustration.
 </p>
 
 <p>
-Experienced in and passionate about branding, animation, and illustration.
+Graduate of University of Cincinnati's College of Design, Architecture, Art,and Planning with a B.S. in Graphic Communication Design. 
 </p>
 
 <p>
