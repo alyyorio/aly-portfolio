@@ -1,6 +1,7 @@
 ---
 email: ALYYORIO34@GMAIL.COM
 phone: 513-478-1613
+resume_url: http://alyyorio.com
 background_color: ea3d25
 ---
 

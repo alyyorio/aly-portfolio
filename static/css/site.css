@@ -49,8 +49,26 @@ body h6 {
   height: 700px;
 }
 
-.nav a:not(:hover) {
+.footer a {
+  color: black;
+}
+
+.footer a svg {
+  width: 10px;
+  top: 3px;
+  margin-left: -6px;
+}
+
+.nav a:not(:hover),
+.footer a:not(:hover),
+.footer a:hover {
   text-decoration: none;
+}
+
+.footer a:hover,
+.footer a:hover svg {
+  color: white;
+  fill: white;
 }
 
 .nav a,
@@ -225,13 +243,12 @@ body h6 {
 }
 
 .VueCarousel-navigation-button {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .VueCarousel-slide {
   flex-shrink: 0 !important;
 }
-
 
 @media only screen and (max-width: 1500px) {
   .header,
