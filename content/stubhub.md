@@ -20,7 +20,7 @@ StubHub’s latest rebrand was centered around two core ideas. First: create an 
 </p>
 
 <p>
-Given these perameters, our small but mighty team went to work. We first recallibrated our photography style from studio shot images to real photography for authenticity. Then we took our brand purple, modernized it, and expanded the pallete for legibility and contrast. 
+Given these parameters, our small but mighty team went to work. We first recalibrated our photography style from studio shot images to real photography for authenticity. Then we took our brand purple, modernized it, and expanded the pallete for legibility and contrast. 
 </p>
 
 <p>
