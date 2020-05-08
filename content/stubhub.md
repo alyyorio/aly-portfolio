@@ -28,5 +28,5 @@ We then developed two treatments for our type and graphic elements. A barring sy
 </p>
 
 <p>
-I was one of two primary designers dedicated on the redesign, from early concepting and iteration to final execution, animation, and implementation of the system. You can view the final brand book <a href="https://docs.google.com/presentation/d/1zdGAU_ZnSsWhP2vPDaZnq6B6VcWGIvW5Lc4_GvmheN0/edit?ts=5e80140c#slide=id.g718639fa57_1_38">here</a>.
+I was one of two primary designers dedicated on the redesign, from early concepting and iteration to final execution, animation, and implementation of the system. You can view the final brand book <a href="https://docs.google.com/presentation/d/1R-4WWVK1jeBHVl7mNRUtCPmeSvE__GXULnSNq8AGB1w/edit?usp=sharing">here</a>.
 </p>
