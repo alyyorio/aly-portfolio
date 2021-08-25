@@ -1,7 +1,8 @@
 ---
 order:
+  - tally
   - stubhub
-  - stubhub_2
+  - hubstub
   - motion_reel
   - thumbtack
   - bluewolf
