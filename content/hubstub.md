@@ -1,7 +1,7 @@
 ---
 title: STUBHUB
 subtitle: ORGANIC SOCIAL CONTENT
-background_color: DDDDDD
+background_color: EAEAEA
 media_type: slideshow
 slides:
   - 1_Social_Horoscopes.gif
