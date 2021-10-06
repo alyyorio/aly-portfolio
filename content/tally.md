@@ -1,22 +1,28 @@
 ---
 title: TALLY
-subtitle: REBRAND SOCIAL & OOH CONTENT
-background_color: ffffff
+subtitle: VISUAL IDENTITY REFRESH
+background_color: DDDDDD
 media_type: slideshow
 slides:
   - 1_Tally-OOO.png
   - 2_Tally-Grid.png
+  - 3_Tally-Performance-Phone.png
+  - 4_Tally-Type.png
+  - 5_Tally-Illos.png
+  - 6_Tally-Product.png
+  - 7_Tally-OOH-Subway.png
+  - 8_Tally-Swag.png
 ---
 
 <p>
-Tally project description.
+Tally is a consumer tech company pioneering full-service financial automation via debt consolidation and low-interest lines of credit. They were looking to refresh the look of their platform and brought me on to assist on thieir visual identity facelift.
 </p>
 
 <p>
-With a team of six designers, we landed on the concept of “Overlay” as the most apt way to describe the experiences accumulated over the past five years in the program and how many layers of knowledge and skill create stronger designers.
+The role primarily involved defining how the system presented itself across performance marketing ads and social media content. I helped establish how all the brand pieces (text, containers, color, and illustration) interacted with and played off of each other to form the baseline look for all digital content.
 </p>
 
 <p>
-My responsibilities consisted of determining the visual direction of the brand as well as the development of the icon system. I also lead the team in charge of the motion bumpers and did the primary photography/videography for each student.
+Secondary to the role was working closely with the agency BUCK to determine the art direction of the animated sticker assets that were the extra 'oomph' and added layer to the brand direction. Together, the team and I were able to elevate the illustrations from uninspired tech content to wonderfully metaphorical and expressive animations.
 </p>
 
