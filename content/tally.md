@@ -15,7 +15,7 @@ slides:
 ---
 
 <p>
-Tally is a consumer tech company pioneering full-service financial automation via debt consolidation and low-interest lines of credit. They were looking to refresh the look of their platform and brought me on to assist on thieir visual identity facelift.
+Tally is a consumer tech company pioneering full-service financial automation via debt consolidation and low-interest lines of credit. They were looking to breathe new life into the brand and brought me on as a brand designer to assist on the refresh
 </p>
 
 <p>
