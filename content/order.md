@@ -3,8 +3,8 @@ order:
   - stubhub
   - hubstub
   - tally
-  - motion_reel
-  - thumbtack
   - bluewolf
+  - thumbtack
+  - motion_reel
   - grcd
 ---
