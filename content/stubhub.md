@@ -1,7 +1,7 @@
 ---
 title: STUBHUB
 subtitle: VISUAL IDENTITY REFRESH
-background_color: FFFFFF
+background_color: DDDDDD
 media_type: slideshow
 slides:
   - 1_Vis-ID_Performance-Ads.png
