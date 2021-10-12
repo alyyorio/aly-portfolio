@@ -10,7 +10,7 @@ Art Director experienced in and passionate about branding, animation, and illust
 </p>
 
 <p>
-Graduate of University of Cincinnati's College of Design, Architecture, Art,and Planning with a B.S. in Graphic Communication Design. 
+Graduate of University of Cincinnati's College of Design, Architecture, Art, and Planning with a B.S. in Graphic Communication Design. 
 </p>
 
 <p>
